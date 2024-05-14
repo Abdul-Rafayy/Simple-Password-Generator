@@ -1,0 +1,53 @@
+.btn{
+    width: 150px;
+    height: 37px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    font-size: larger;
+    background-color: black;
+    color:gray;
+}
+.btn:active{
+    color: white;
+}
+body{
+    text-align: center;
+    /* background-color: black;
+    color:white; */
+    margin-top: 10%;
+    background-color: gray;
+    
+}
+#password{
+    border: 2px solid gray;
+    border-radius: 20px;
+    width: 300px;
+    height: 30px;
+    font-size: larger;
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+#length{
+    border: 2px solid gray;
+    border-radius: 20px;
+    width: 300px;
+    height: 30px;
+    font-size: larger;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+.box{
+    background-color: black;
+    width: 30%;
+    margin-left: 35%;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border-radius: 50%;
+}
+h1{
+    color: gray;
+}
+
